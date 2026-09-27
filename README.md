@@ -20,3 +20,15 @@ Open `http://127.0.0.1:8011`.
 ## Packaging
 
 The web app is served from one FastAPI port. The original PyInstaller specification was not rebuilt in this pass; package `python -m server` with PyInstaller for the final standalone `.exe` once the required Python environment is fixed.
+
+
+#previews of the web app 
+
+<img width="1848" height="916" alt="image" src="https://github.com/user-attachments/assets/1a34521b-726c-4e63-bdaa-14a1220e6ec4" />
+
+<img width="1187" height="878" alt="image" src="https://github.com/user-attachments/assets/9d3a4c70-2a43-4b76-80c9-c9eb3abe0ddd" />
+
+<img width="1165" height="868" alt="image" src="https://github.com/user-attachments/assets/a2f6ac48-5ca6-4f3b-9b8c-af44071b6729" />
+
+
+
